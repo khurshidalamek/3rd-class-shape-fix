@@ -1,0 +1,160 @@
+
+.shape{ 
+    height: 500px;
+    width: 1200px;
+    border: 2px solid black;
+    padding: 10px;
+    position: relative;
+
+
+
+}
+
+
+
+.squre{
+
+    background-color:burlywood;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 1300px;
+    margin: auto;
+
+}
+
+.Circle{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 200px;
+    margin: auto;
+}
+
+.Rectangular{
+    background-color: chartreuse;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 700px;
+    right: 0px;
+    margin: auto;
+}
+
+
+.arrow{
+position: relative;
+width: 1100px;
+height: 1100px;
+border: 8px solid crimson;
+border-radius: 50px;
+}
+
+
+
+.oval{
+
+    background-color: darkmagenta;
+    width: 350px;
+    height: 250px;
+    border-radius: 200px/100px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+
+.uparrow{
+    width: 0px;
+    height: 0px;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 300px solid pink;
+    position: absolute;
+    bottom: 710px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+.downarrow{
+
+    width: 0px;
+    height: 0px;
+    border-top: 300px solid black;
+    border-right:200px solid transparent;
+    border-left: 200px solid transparent;
+    position: absolute;
+    top: 710px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+
+}
+
+.leftarrow{
+    width: 0px;
+    height: 0px;
+    border-right: 300px solid red;
+    border-top: 200px solid transparent;
+    border-bottom: 200px solid transparent;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 710px;
+    margin: auto;
+}
+
+.rightarrow{
+    width: 0px;
+    height: 0px;
+    border-left: 300px solid blueviolet;
+    border-top: 200px solid transparent;
+    border-bottom: 200px solid transparent;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 710px;
+    right: 0px;
+    margin: auto;
+}
+
+.flag{
+    background-color:green;
+    width: 400px;
+    height: 250px;
+    position: relative;
+
+
+}
+
+.redcircle{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+
+
+}
